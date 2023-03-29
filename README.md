@@ -3,6 +3,7 @@
 This project is based on the analysis of Women's E-commerce Clothing Reviews dataset taken from Kaggle. The objective of this project is to perform data preprocessing to clean the data and perform data analysis to gain insights from the reviews. Additionally, we have used LDA topic modeling to get the most three dominating topics from the reviews and then trained machine learning models to predict the number of product recommendations based on input features.
 ## Technologies
 The following technologies were used in this project:
+
 1.Python
 
 2.Pandas
