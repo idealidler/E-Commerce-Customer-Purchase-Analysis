@@ -4,13 +4,18 @@ This project is based on the analysis of Women's E-commerce Clothing Reviews dat
 ## Technologies
 The following technologies were used in this project:
 1.Python
+
 2.Pandas
+
 3.Matplotlib
+
 4.Seaborn
+
 5.NLTK
 
 ## Data Preprocessing
 Data preprocessing is an important step to prepare the data for analysis. In this project, we performed the following preprocessing steps:
+
 ●	Removed missing values and duplicates
 
 ●	Cleaned the text data by removing punctuation, numbers and special characters
@@ -21,6 +26,7 @@ Data preprocessing is an important step to prepare the data for analysis. In thi
 
 ## Data Analysis
 In this project, we analyzed the data using the following visualizations:
+
 ●	Donut chart to show the distribution of product recommendations
 
 ●	Bar chart to show the department-wise product recommendations
@@ -40,6 +46,7 @@ We used LDA topic modeling to get the most three dominating topics from the revi
 
 ## Recommendations
 Based on the analysis, we suggest the following recommendations:
+
 ●	Improve the sizing and fitting of products in the Trend department to increase the product recommendations and reduce bad ratings
 
 ●	Focus on improving the appearance of the products as it is one of the dominating topics in the reviews
