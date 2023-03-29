@@ -3,15 +3,11 @@
 This project is based on the analysis of Women's E-commerce Clothing Reviews dataset taken from Kaggle. The objective of this project is to perform data preprocessing to clean the data and perform data analysis to gain insights from the reviews. Additionally, we have used LDA topic modeling to get the most three dominating topics from the reviews and then trained machine learning models to predict the number of product recommendations based on input features.
 ## Technologies
 The following technologies were used in this project:
-●	Python
-
-●	Pandas
-
-●	Matplotlib
-
-●	Seaborn
-
-●	NLTK
+1.Python
+2.Pandas
+3.Matplotlib
+4.Seaborn
+5.NLTK
 
 ## Data Preprocessing
 Data preprocessing is an important step to prepare the data for analysis. In this project, we performed the following preprocessing steps:
