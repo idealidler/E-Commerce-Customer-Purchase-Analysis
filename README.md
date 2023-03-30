@@ -42,7 +42,7 @@ In this project, we analyzed the data using the following visualizations:
 ## LDA Topic Modeling
 We used LDA topic modeling to get the most three dominating topics from the reviews. The topics were:
 1.	Product Feel
-2.	Appearance
+2.	Online Shopping
 3.	Dress Sizing and Fitting
 
 ## Recommendations
